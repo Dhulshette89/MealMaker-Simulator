@@ -1,0 +1,28 @@
+1,A:Veg Pulao,350,10.00
+1,B:BundiRaita,50,5.00
+1,A:Zunka Bhakar,75,8.00
+3,A:Zunka Bhakar,75,8.00
+3,B:green salad,50,7.00
+1,B:green salad,50,7.00
+3,A:Brown Rice chicken,150,11.00
+3,B:Chicken Salad,75,10.00
+1,A:Palak Paneer Roti,350,10.00
+1,B:manchurian,200,9.00
+3,A:Daal Khichdi,100,8.00
+1,A:Daal Khichdi,100,8.00
+3,B:Chana Usal,80,7.00
+1,B:Chana Usal,80,7.00
+3,A:Tandoori chicken,120,12.00
+3,B:veg tulip,80,7.00
+1,B:veg tulip,80,7.00
+1,A:kadhi bhat,120,7.00
+1,B:mataki usal,70,9.00
+3,A:Dal rice,120,8.00
+1,A:Dal rice,120,8.00
+3,B:fry idli,100,10.00
+1,B:fry idli,100,10.00
+1,B:Vada Pav,130,8.50
+3,A:Misal Pav,100,8.00
+1,A:Misal Pav,100,8.00
+
+
